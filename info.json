@@ -1,0 +1,26 @@
+{
+    "roleprefix": "komut/önek",
+    "roletoken": "bot/tokeni",
+    "rolessahip": "sahip/id",
+    "roledurum": "bot/durum",
+    "rolestat": "dnd",
+    "roleses": "seskanal/id",
+    "rolescolor": "Random",
+     
+    "katılım": {
+        "roleetkinkatılım": "etkinlik/id",
+        "roleçekilkatılım": "çekiliş/id"
+    },
+    "takım": {
+        "fener": "fenerbahçe/id",
+        "galat": "galatasaray/id",
+        "besik": "beşiktaş/id",
+        "trabzon": "trabzon/id",
+        "basak": "başakşehir/id"
+    },
+    "ilişki": {
+        "couple": "couple/id",
+        "alone": "alone/id"
+    }
+
+}
